@@ -20,6 +20,22 @@ Stewarding a Project
 
 If you have a project that you think belongs under the RxSwiftCommunity organization, please [open an issue](https://github.com/RxSwiftCommunity/contributors/issues/new). Generally, projects should be production-ready and able to be installed with CocoaPods or Carthage.
 
+### Checklist for Transferring Ownership
+
+When you open an issue, you can copy & paste the following checklist into the description or a comment to track progress:
+
+```
+- [ ] replace copyright with "Copyright (c) RxSwiftCommunity" in code
+- [ ] replace copyright in README
+- [ ] replace copyright in LICENSE
+- [ ] update the remote URL of the Podspec (if any)
+- [ ] update CI badge
+- [ ] update CI settings
+- [ ] transfer repository ownership (once you're a contributor)
+- [ ] fork the repo back to your personal account
+- [ ] add project to https://github.com/RxSwiftCommunity/rxswiftcommunity.github.io
+```
+
 Code of Conduct
 ---------------
 
