@@ -41,10 +41,10 @@ Code of Conduct
 
 We have our own [Code of Conduct](Code of Conduct.md), which is adapted from the [Contributor Covenant](http://contributor-covenant.org), version 1.3.0, available at [http://contributor-covenant.org/version/1/3/0/](http://contributor-covenant.org/version/1/3/0/). The CoC is taken seriously by the project owners.
 
-Automatic PR checking with Peril
+Automatic PR Checking with Peril
 --------------------------------
 
-[Peril](https://github.com/Danger/Peril) is a server which runs [Danger](http://danger.systems/js/) automatically, on all pull requests, organization-wide. We can check for pull request metadata, commit information, which files were changed, all kinds of thigs. Here is the list of checks which currently get run:
+[Peril](https://github.com/Danger/Peril) is a server which runs [Danger-JS](http://danger.systems/js/) automatically, on all pull requests, organization-wide. It can check for pull request metadata, commit information, which files were changed, all kinds of things. Here are the things Peril checks on _every_ RxSwiftCommunity repo's pull requests:
 
 - Ensuring that changes to non-test code are reflected in the changelog (if one exists). [PR](https://github.com/RxSwiftCommunity/peril/pull/1)
 
