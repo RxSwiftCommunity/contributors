@@ -11,7 +11,7 @@ tl;dr
 - If it feels right, merge. We can always revert later if we need to.
 - We aim for public discussion.
 
-The community also has discussions in Slack, too, so not all info is available in issues. You're welcome to [join the conversation](http://slack.rxswift.org).
+The community also has discussions in Slack, too, so not all info is available in issues. You're welcome to [join the conversation](https://rxswift.slack.com).
 
 One important point: RxSwiftCommunity is not the same as RxSwift. We're an organization for community-based projects _using_ RxSwift, and our contributor guidelines may differ.
 
