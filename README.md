@@ -44,4 +44,4 @@ We have our own [Code of Conduct](Code of Conduct.md), which is adapted from the
 Automatic PR Checking with Peril
 --------------------------------
 
-[Peril](https://github.com/Danger/Peril) is a server which runs [Danger-JS](http://danger.systems/js/) automatically, on all pull requests, organization-wide. The rules for our Peril server are [here](https://github.com/RxSwiftCommunity/peril), and we encourage everyone to think about new ways we could use Peril and Danger.
+[Peril](https://github.com/Danger/Peril) is a server which runs [Danger-JS](http://danger.systems/js/) automatically, on all pull requests, organization-wide. The rules for our Peril server are [here](https://github.com/RxSwiftCommunity/peril#automatic-pr-checking-with-peril), and we encourage everyone to think about new ways we could use Peril and Danger.
