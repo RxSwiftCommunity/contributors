@@ -34,6 +34,7 @@ When you open an issue, you can copy & paste the following checklist into the de
 - [ ] transfer repository ownership (once you're a contributor)
 - [ ] fork the repo back to your personal account
 - [ ] add project to https://github.com/RxSwiftCommunity/rxswiftcommunity.github.io
+- [ ] Add `community@rxswift.org` as an owner of your project's CocoaPod by using `pod trunk add-owner community@rxswift.org`.
 ```
 
 Code of Conduct
