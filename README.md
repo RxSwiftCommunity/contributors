@@ -40,9 +40,17 @@ When you open an issue, you can copy & paste the following checklist into the de
 Code of Conduct
 ---------------
 
-We have our own [Code of Conduct](Code of Conduct.md), which is adapted from the [Contributor Covenant](http://contributor-covenant.org), version 1.3.0, available at [http://contributor-covenant.org/version/1/3/0/](http://contributor-covenant.org/version/1/3/0/). The CoC is taken seriously by the project owners.
+We have our own [Code of Conduct](Code%20of%20Conduct.md), which is adapted from the [Contributor Covenant](http://contributor-covenant.org), version 1.3.0, available at [http://contributor-covenant.org/version/1/3/0/](http://contributor-covenant.org/version/1/3/0/). The CoC is taken seriously by the project owners.
 
 Automatic PR Checking with Peril
 --------------------------------
 
 [Peril](https://github.com/Danger/Peril) is a server which runs [Danger-JS](http://danger.systems/js/) automatically, on all pull requests, organization-wide. The rules for our Peril server are [here](https://github.com/RxSwiftCommunity/peril#automatic-pr-checking-with-peril), and we encourage everyone to think about new ways we could use Peril and Danger.
+
+Setting up Automatic Deploys for your project
+-----------------------------------------------
+
+You might want to set up automatic deploys so that a new Podspec is pushed to CocoaPods whenever you push a new GitHub release.
+This is already being done across many projects in the community successfully.
+
+Interested? Check out the [Automatic Deploy Guide](Automatic%20Deploys.md) !
